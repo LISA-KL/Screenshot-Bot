@@ -6,9 +6,9 @@ import os
 import mimetypes
 
 # Replace these values with your own
-api_id = ""
-api_hash = ""
-bot_token = ""
+api_id = "4888076"
+api_hash = "8b9b8214d84305d5ba8042c93575ea84"
+bot_token = "7425926421:AAHRQEgKYS12AolN5Qv92xRUkB_zE7z4gK8"
 
 # Initialize the Pyrogram Client
 app = Client("screenshot_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
